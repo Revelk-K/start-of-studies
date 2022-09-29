@@ -1,0 +1,13 @@
+html, body {
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    color: sandybrown;
+    font-weight: bold;
+    
+    background-color: teal; 
+  }
+
+  a {
+    text-decoration: none;
+    color: sandybrown;
+  }
